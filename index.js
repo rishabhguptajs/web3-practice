@@ -7,8 +7,7 @@ const web3 = new Web3(
   `https://mainnet.infura.io/v3/${process.env.INFURA_API}`
 )
 
-const url = "https://mainnet.infura.io/v3/551e2f1c18c044f78c39622b75ddb679"
-const address = "0x00000000219ab540356cBB839Cbe05303d7705Fa"
+// const address = "0x00000000219ab540356cBB839Cbe05303d7705Fa"
 const contractAddress = "0xB8c77482e45F1F44dE1745F52C74426C631bDD52"
 
 const abi = [
